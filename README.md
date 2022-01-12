@@ -1,7 +1,6 @@
 #Portfolio CSS-HTML
 
-Repositorio de portfolio creado con puro CSS y HTML, el objetivo es hacer una recopilacion de paginas que he maquetado usando lo menos posible codigo JS.
-
+Repositorio de portfolio creado con CSS y HTML, el objetivo es crear una pagina funcional usando la menor cantidad posible de codigo JS.
 ##Proyectos
 
--Landing page portafolio-CV https://sergioperalta22.github.io/portfolioCSS/portafolio-cv/
+-Landing page portafolio-CV https://sergioperalta22.github.io/portfolioCSS/
