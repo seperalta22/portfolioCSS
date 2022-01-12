@@ -4,4 +4,4 @@ Repositorio de portfolio creado con puro CSS y HTML, el objetivo es hacer una re
 
 ##Proyectos
 
--Landing page portafolio-CV
+-Landing page portafolio-CV https://sergioperalta22.github.io/portfolioCSS/portafolio-cv/
